@@ -35,7 +35,8 @@ def parse_tables(x):
         x['links'].extend(links)
 
 def parse_webpage(x):
-    page = requests.get('http://ggim.un.org/knowledgebase/KnowledgebaseCategory'+x['url']+'.aspx')
+    x['url'] = 'http://ggim.un.org/knowledgebase/KnowledgebaseCategory'+x['url']+'.aspx'
+    page = requests.get(x['url'])
     soup = BeautifulSoup(page.content, "html.parser")
     x['title'] =  soup.find("head").title.text.strip()
     description = soup.find("span", id="ctl00_ctlContentPlaceHolder_ctl00_ctl00_ctl00_ctl00_lblCategoryDesc")
@@ -43,6 +44,10 @@ def parse_webpage(x):
         x['blurb'] = description.text
     else:
         x['blurb'] = None
+
+    
+
+    
 
 
     
@@ -58,6 +63,15 @@ def parse_doc_page(url):
     article = soup.find("div", class_="i-row ikb-article")
     doc_info = soup.find("div", id="ctlDataList")
     r = doc_info.find_all("div", class_="row")
+    related_links = soup.find_all("a", id="ctl00_ctlContentPlaceHolder_ctl00_ctl00_ctl00_ctl00_ctlPanelBar_ctlViewArticleRelatedLinks_ctl00_ctlDataList_ctl00_hypRelatedLink2")
+
+    document['related_links'] = []
+
+    for rl in related_links:
+        d = dict()
+        d['url'] = rl['href']
+        d['label'] = rl.text
+        document['related_links'].append(d)
 
     document['title'] = doc_title.text
 
@@ -93,9 +107,8 @@ for i_0 in index:
         parse_webpage(i_1)
         
         parse_tables(i_1)
-        # if i_1['htmlTable']:
-        #     parse_table(i_1)
-        #     print(i_1['htmlTable'])
+        
+        
             
         for idx_2, i_2 in enumerate(i_1['children']):
             
@@ -104,19 +117,29 @@ for i_0 in index:
 
             parse_webpage(i_2)
             
-            parse_tables(i_1)
-            # if i_2['htmlTable']:
-            #     parse_table(i_2)
-            #     print(i_2['htmlTable'])
+            parse_tables(i_2)
+
+            
 
             for i_3 in i_2['children']:
                 parse_webpage(i_3)
                 
                 parse_tables(i_3)
-                # if i_3['htmlTable']:
-                #     parse_table(i_3)
-                #     print(i_3['htmlTable'])
+                
+                
 
+                for i_4 in i_3['children']:
+                    parse_webpage(i_4)
+                    
+                    parse_tables(i_4)
+                    
+                    i_4.pop('html_tables')
+
+                i_3.pop('html_tables')
+            
+            i_2.pop('html_tables')
+
+        i_1.pop('html_tables')
 
 
 with open('master_data/index_links.json', 'w') as fout:
