@@ -14,34 +14,38 @@ index = utils.open_json('master_data/index.json')
 
 index_links = []
 
-def parse_table(x):
-    soup = BeautifulSoup(open('html_tables/' + x['htmlTable'] + '.html', encoding="utf8"), "html.parser") 
-
-    page = requests.get('http://ggim.un.org/knowledgebase/KnowledgebaseCategory'+x['url']+'.aspx')
-    soup2 = BeautifulSoup(page.content, "html.parser")
-
-    x['title'] =  soup2.find("head").title.text.strip()
+def parse_tables(x):
     x['links'] = []
-    for a in soup.find_all("a", class_="primary"):
-        d = dict()
-        d['url'] = a['href']
-        if a.has_attr('title'):
-            d['title'] = a['title'].strip()
-        else:
-            d['title']= None
-        d['label'] = a.text.replace('\n',' ').replace('  ', ' ').strip()
-        d['file'] = parse_doc_page(d['url'] )
-        x['links'].append(d)
+    tables = x['html_tables']
+    for t in tables:
+        soup = BeautifulSoup(open('html_tables/' + t + '.html', encoding="utf8"), "html.parser") 
+
+
+        links = []
+        for a in soup.find_all("a", class_="primary"):
+            d = dict()
+            d['url'] = a['href']
+            if a.has_attr('title'):
+                d['title'] = a['title'].strip()
+            else:
+                d['title']= None
+            d['label'] = a.text.replace('\n',' ').replace('  ', ' ').strip()
+            d['file'] = parse_doc_page(d['url'] )
+            links.append(d)
+        x['links'].extend(links)
 
 def parse_webpage(x):
     page = requests.get('http://ggim.un.org/knowledgebase/KnowledgebaseCategory'+x['url']+'.aspx')
     soup = BeautifulSoup(page.content, "html.parser")
+    x['title'] =  soup.find("head").title.text.strip()
     description = soup.find("span", id="ctl00_ctlContentPlaceHolder_ctl00_ctl00_ctl00_ctl00_lblCategoryDesc")
     if description:
         x['blurb'] = description.text
     else:
         x['blurb'] = None
 
+
+    
 
 def parse_doc_page(url):
     print(url)
@@ -78,35 +82,40 @@ def parse_doc_page(url):
     
 
 for i_0 in index:    
-    if i_0['htmlTable']:
-        parse_webpage(i_0)
-        parse_table(i_0)
-        print(i_0['htmlTable'])
+    parse_webpage(i_0)
+    parse_tables(i_0)
+
     for idx_1, i_1 in enumerate(i_0['children']):
 
         # if idx_1 != 0:
         #     continue
 
-        if i_1['htmlTable']:
-            parse_webpage(i_1)
-            parse_table(i_1)
-            print(i_1['htmlTable'])
+        parse_webpage(i_1)
+        
+        parse_tables(i_1)
+        # if i_1['htmlTable']:
+        #     parse_table(i_1)
+        #     print(i_1['htmlTable'])
             
         for idx_2, i_2 in enumerate(i_1['children']):
             
             # if idx_2 != 0:
             #     continue
 
-            if i_2['htmlTable']:
-                parse_webpage(i_2)
-                parse_table(i_2)
-                print(i_2['htmlTable'])
+            parse_webpage(i_2)
+            
+            parse_tables(i_1)
+            # if i_2['htmlTable']:
+            #     parse_table(i_2)
+            #     print(i_2['htmlTable'])
 
             for i_3 in i_2['children']:
-                if i_3['htmlTable']:
-                    parse_webpage(i_3)
-                    parse_table(i_3)
-                    print(i_3['htmlTable'])
+                parse_webpage(i_3)
+                
+                parse_tables(i_3)
+                # if i_3['htmlTable']:
+                #     parse_table(i_3)
+                #     print(i_3['htmlTable'])
 
 
 
