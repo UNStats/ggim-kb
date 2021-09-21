@@ -4,8 +4,8 @@ The scripts and input data contained in this repository allow to create a backup
 
 Scripts are written in python, using common libraries such as BeautifulSoup, Mardownify, and json.
 
-Before running the scripts, a map of the hierarchical structure of the knowledgebase was manually created (see [master_data/index.txt](https://github.com/UNStats/ggim-kb/blob/main/master_data/index.txt). Also the contents of each "Articles" (paginated) table where manually saved as individual html files (see [html_tables](tree/main/html_tables)).
+Before running the scripts, a map of the hierarchical structure of the knowledgebase was manually created (see [master_data/index.txt](master_data/index.txt). Also the contents of each "Articles" (paginated) table where manually saved as individual html files (see [html_tables](html_tables)).
 
-The outputs of the webscraping process are saved both as a set of .json files and in tab-delimited format under 'ouput/'.
+The outputs of the webscraping process are saved both as a set of .json files and in tab-delimited format under [ouput/](output).
 
-Hosted documentes that are referenced in the articles of the knowledge base are automatically downloaded and saved under 'docs/'
+Hosted documentes that are referenced in the articles of the knowledge base are automatically downloaded and saved under [docs/](docs).
