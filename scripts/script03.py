@@ -12,14 +12,12 @@ def download_file(download_url, filename):
 
 def get_node_details(node, breadcrumbs):
     d = dict()
-    
     d['parent'] = 'http://ggim.un.org/knowledgebase/KnowledgebaseCategory'+node['parent']+'.aspx'
     d['category_url'] = node['url']
     d['hasChildren'] = node['hasChildren']
     d['breadcrumbs'] = breadcrumbs + ' >> ' + node['title']
     d['category_title'] = node['title']
     d['category_blurb'] = node['blurb']
-    
     return d
 
 def get_node_articles(node, level):
@@ -37,22 +35,17 @@ def get_node_articles(node, level):
         if len(i['file']['related_links'])>0:
             d['article_weblink_url'] = i['file']['related_links'][0]['url']
             d['article_weblink_label'] = i['file']['related_links'][0]['label']
-
         else:
             d['article_weblink_url'] = None
             d['article_weblink_label'] = None
-
         d['article_file_url'] = i['file']['file_url']
         d['article_file_title'] = i['file']['file_name']
-
         if d['article_file_url']:
             download_file(d['article_file_url'], d['article_file_title'])
-
         d['article_dateModified'] = i['file']['dateModified']
         d['article_modifiedBy'] = i['file']['modifiedBy']
         d['article_type'] = i['file']['type']
         node_articles.append(d)
-
     return node_articles
 
 

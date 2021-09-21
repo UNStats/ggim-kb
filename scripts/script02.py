@@ -96,7 +96,6 @@ for index_file in ['global', 'regional', 'national']:
             #     continue
 
             parse_webpage(i_1)
-            
             parse_tables(i_1)
                 
             for idx_2, i_2 in enumerate(i_1['children']):
@@ -105,17 +104,14 @@ for index_file in ['global', 'regional', 'national']:
                 #     continue
 
                 parse_webpage(i_2)
-                
                 parse_tables(i_2)
 
                 for i_3 in i_2['children']:
                     parse_webpage(i_3)
-                    
                     parse_tables(i_3)
 
                     for i_4 in i_3['children']:
                         parse_webpage(i_4)
-                        
                         parse_tables(i_4)
                         
                         i_4.pop('html_tables')

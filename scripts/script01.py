@@ -4,7 +4,6 @@
 
 import utils
 import json
-import copy 
 
 index_flat = utils.tsv2dictlist('master_data/index.txt')
 
