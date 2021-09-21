@@ -8,4 +8,4 @@ Before running the scripts, a map of the hierarchical structure of the knowledge
 
 The outputs of the webscraping process are saved both as a set of .json files and in tab-delimited format under [ouput/](output).
 
-Hosted documentes that are referenced in the articles of the knowledge base are automatically downloaded and saved under [docs/](docs).
+Hosted documentes that are referenced in the articles of the knowledge base are automatically downloaded and saved in a 'docs/' folder (.gitignored).
