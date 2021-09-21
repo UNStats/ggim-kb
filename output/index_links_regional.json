@@ -1,0 +1,837 @@
+[
+    {
+        "parent": "",
+        "url": "http://ggim.un.org/knowledgebase/KnowledgebaseCategory14.aspx",
+        "hasChildren": "1",
+        "Multipage": "0",
+        "html_tables": [
+            "T00113"
+        ],
+        "children": [
+            {
+                "parent": "14",
+                "url": "http://ggim.un.org/knowledgebase/KnowledgebaseCategory16.aspx",
+                "hasChildren": "0",
+                "Multipage": "0",
+                "children": [
+                    {
+                        "parent": "16",
+                        "url": "http://ggim.un.org/knowledgebase/KnowledgebaseCategory44.aspx",
+                        "hasChildren": "0",
+                        "Multipage": "0",
+                        "children": [],
+                        "title": "Relevant Documents",
+                        "blurb": null,
+                        "links": [
+                            {
+                                "url": "http://ggim.un.org/knowledgebase/KnowledgebaseArticle50192.aspx",
+                                "title": null,
+                                "label": "Regional Report of the UN-GGIM:AP June 2014",
+                                "file": {
+                                    "related_links": [],
+                                    "title": "UN-GGIM Knowledge Base",
+                                    "file_url": "http://ggim.un.org/knowledgebase/Attachment114.aspx?AttachmentType=1",
+                                    "file_name": "Regional Report of the UN-GGIM-AP June 2014.pdf",
+                                    "article": "",
+                                    "dateModified": "Monday, April 27, 2015",
+                                    "modifiedBy": "Staff_Consultant",
+                                    "type": "INFO"
+                                }
+                            },
+                            {
+                                "url": "http://ggim.un.org/knowledgebase/KnowledgebaseArticle50176.aspx",
+                                "title": null,
+                                "label": "The 3rd UN-GGIM-AP Record of Proceedings",
+                                "file": {
+                                    "related_links": [],
+                                    "title": "UN-GGIM Knowledge Base",
+                                    "file_url": "http://ggim.un.org/knowledgebase/Attachment98.aspx?AttachmentType=1",
+                                    "file_name": "The 3rd UN-GGIM-AP Record of Proceedings.pdf",
+                                    "article": "",
+                                    "dateModified": "Friday, March 20, 2015",
+                                    "modifiedBy": "Staff_Consultant",
+                                    "type": "INFO"
+                                }
+                            },
+                            {
+                                "url": "http://ggim.un.org/knowledgebase/KnowledgebaseArticle50175.aspx",
+                                "title": null,
+                                "label": "Resolutions at the 2nd UN-GGIM-AP Meeting",
+                                "file": {
+                                    "related_links": [],
+                                    "title": "UN-GGIM Knowledge Base",
+                                    "file_url": "http://ggim.un.org/knowledgebase/Attachment97.aspx?AttachmentType=1",
+                                    "file_name": "Resolutions at the 2nd UN-GGIM-AP Meeting.pdf",
+                                    "article": "",
+                                    "dateModified": "Monday, February 23, 2015",
+                                    "modifiedBy": "Staff_Consultant",
+                                    "type": "INFO"
+                                }
+                            },
+                            {
+                                "url": "http://ggim.un.org/knowledgebase/KnowledgebaseArticle50217.aspx",
+                                "title": "",
+                                "label": "19th UNRCC-AP Resolution",
+                                "file": {
+                                    "related_links": [],
+                                    "title": "UN-GGIM Knowledge Base",
+                                    "file_url": "http://ggim.un.org/knowledgebase/Attachment124.aspx?AttachmentType=1",
+                                    "file_name": "19th UNRCC AP Resolution.pdf",
+                                    "article": "19thUnited Nations Regional Cartographic Conferences(UNRCC)-AP Resolution",
+                                    "dateModified": "Friday, March 20, 2015",
+                                    "modifiedBy": "Staff_Consultant",
+                                    "type": "INFO"
+                                }
+                            },
+                            {
+                                "url": "http://ggim.un.org/knowledgebase/KnowledgebaseArticle52021.aspx",
+                                "title": null,
+                                "label": "UN-GGIM:Americas Regional Report 2013-2014",
+                                "file": {
+                                    "related_links": [],
+                                    "title": "UN-GGIM Knowledge Base",
+                                    "file_url": "http://ggim.un.org/knowledgebase/Attachment1851.aspx?AttachmentType=1",
+                                    "file_name": "14. Regional Report_ Presentation ROA.pdf",
+                                    "article": "",
+                                    "dateModified": "Monday, June 25, 2018",
+                                    "modifiedBy": "Staff_Consultant",
+                                    "type": "INFO"
+                                }
+                            },
+                            {
+                                "url": "http://ggim.un.org/knowledgebase/KnowledgebaseArticle52023.aspx",
+                                "title": null,
+                                "label": "Report from Asia Pacific",
+                                "file": {
+                                    "related_links": [],
+                                    "title": "UN-GGIM Knowledge Base",
+                                    "file_url": "http://ggim.un.org/knowledgebase/Attachment1853.aspx?AttachmentType=1",
+                                    "file_name": "14_UN-GGIM-AP Report for 4th UNGGIM NY 20140806.pdf",
+                                    "article": "",
+                                    "dateModified": "Monday, June 25, 2018",
+                                    "modifiedBy": "Staff_Consultant",
+                                    "type": "INFO"
+                                }
+                            },
+                            {
+                                "url": "http://ggim.un.org/knowledgebase/KnowledgebaseArticle52303.aspx",
+                                "title": null,
+                                "label": "Report of the Permanent Committee on GIS Infrastructure for       Asia...",
+                                "file": {
+                                    "related_links": [],
+                                    "title": "UN-GGIM Knowledge Base",
+                                    "file_url": "http://ggim.un.org/knowledgebase/Attachment2152.aspx?AttachmentType=1",
+                                    "file_name": "Report of the PCGIAP at UNCE-GGIM2 20120815 (Final).pdf",
+                                    "article": "",
+                                    "dateModified": "Wednesday, June 27, 2018",
+                                    "modifiedBy": "Staff_Consultant",
+                                    "type": "INFO"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "title": "UN-GGIM ASIA-PACIFIC",
+                "blurb": "The Regional Committee of United Nations Global Geospatial Information Management for Asia and the Pacific (UN-GGIM-AP) was established on 1 November 2012 on the basis of the Permanent Committee on GIS Infrastructure for Asia and the Pacific (PCGIAP), in accordance with Resolution 8 adopted at the Nineteenth United Nations Regional Cartographic Conference for Asia and the Pacific (UNRCC-AP). The aim of the UN-GGIM-AP is to identify regional issues relevant to geospatial information management and take necessary actions on them for the furtherance of the discussions at UNRCC-AP conferences, and reports back to UN-GGIM. UN-GGIM-AP inherits exactly the same missions and membership as those of PCGIAP. As the representing body of the National Geospatial Information Authority of 56 countries and regions in Asia and the Pacific region, the Committee promotes the unique needs and interests of the region globally while cooperating with other regional and global entities, so that the economic, social and environmental benefits of geospatial information will be maximized in Asia and the Pacific region. For more details, please visit: http://www.un-ggim-ap.org/.",
+                "links": [
+                    {
+                        "url": "http://ggim.un.org/knowledgebase/KnowledgebaseArticle50156.aspx",
+                        "title": null,
+                        "label": "Statutes of the UN-GGIM:AP",
+                        "file": {
+                            "related_links": [],
+                            "title": "UN-GGIM Knowledge Base",
+                            "file_url": "http://ggim.un.org/knowledgebase/Attachment112.aspx?AttachmentType=1",
+                            "file_name": "Statutes of the Regional Committee of United Nations Global Geospatial Information Management for Asia and the Pacific.pdf",
+                            "article": "",
+                            "dateModified": "Wednesday, March 4, 2015",
+                            "modifiedBy": "Staff_Consultant",
+                            "type": "INFO"
+                        }
+                    },
+                    {
+                        "url": "http://ggim.un.org/knowledgebase/KnowledgebaseArticle50157.aspx",
+                        "title": null,
+                        "label": "Rules of Procedure of the UN-GGIM:AP",
+                        "file": {
+                            "related_links": [],
+                            "title": "UN-GGIM Knowledge Base",
+                            "file_url": "http://ggim.un.org/knowledgebase/Attachment94.aspx?AttachmentType=1",
+                            "file_name": "Rules of Procedure of the Regional Committee of United Nations Global Geospatial Information Management for Asia and the Pacific.pdf",
+                            "article": "",
+                            "dateModified": "Tuesday, February 24, 2015",
+                            "modifiedBy": "Staff_Consultant",
+                            "type": "INFO"
+                        }
+                    },
+                    {
+                        "url": "http://ggim.un.org/knowledgebase/KnowledgebaseArticle51639.aspx",
+                        "title": null,
+                        "label": "Report of the Regional Committee of UN-GGIM for Asia and the...",
+                        "file": {
+                            "related_links": [],
+                            "title": "UN-GGIM Knowledge Base",
+                            "file_url": "http://ggim.un.org/knowledgebase/Attachment1471.aspx?AttachmentType=1",
+                            "file_name": "Item 4 - Hiroshi Murakami (UN-GGIM Asia Pacific).pdf",
+                            "article": "",
+                            "dateModified": "Tuesday, June 12, 2018",
+                            "modifiedBy": "Staff_Consultant",
+                            "type": "INFO"
+                        }
+                    },
+                    {
+                        "url": "http://ggim.un.org/knowledgebase/KnowledgebaseArticle51649.aspx",
+                        "title": null,
+                        "label": "Report of the Regional Committee of United Nations Global...",
+                        "file": {
+                            "related_links": [],
+                            "title": "UN-GGIM Knowledge Base",
+                            "file_url": "http://ggim.un.org/knowledgebase/Attachment1480.aspx?AttachmentType=1",
+                            "file_name": "Background_Document_for_UN-GGIM-AP_Report.pdf",
+                            "article": "",
+                            "dateModified": "Thursday, June 14, 2018",
+                            "modifiedBy": "Staff_Consultant",
+                            "type": "INFO"
+                        }
+                    },
+                    {
+                        "url": "http://ggim.un.org/knowledgebase/KnowledgebaseArticle51889.aspx",
+                        "title": null,
+                        "label": "The 5th Session of UN-GGIM Report from Asia & Pacific",
+                        "file": {
+                            "related_links": [],
+                            "title": "UN-GGIM Knowledge Base",
+                            "file_url": "http://ggim.un.org/knowledgebase/Attachment1717.aspx?AttachmentType=1",
+                            "file_name": "GGIM-AP  Introduction.pdf",
+                            "article": "",
+                            "dateModified": "Thursday, June 21, 2018",
+                            "modifiedBy": "Staff_Consultant",
+                            "type": "INFO"
+                        }
+                    }
+                ]
+            },
+            {
+                "parent": "14",
+                "url": "http://ggim.un.org/knowledgebase/KnowledgebaseCategory15.aspx",
+                "hasChildren": "0",
+                "Multipage": "0",
+                "children": [
+                    {
+                        "parent": "15",
+                        "url": "http://ggim.un.org/knowledgebase/KnowledgebaseCategory43.aspx",
+                        "hasChildren": "0",
+                        "Multipage": "0",
+                        "children": [],
+                        "title": "Relevant Documents",
+                        "blurb": null,
+                        "links": [
+                            {
+                                "url": "http://ggim.un.org/knowledgebase/KnowledgebaseArticle50191.aspx",
+                                "title": null,
+                                "label": "Regional Report of the UN-GGIM-Americas 2013-2014",
+                                "file": {
+                                    "related_links": [],
+                                    "title": "UN-GGIM Knowledge Base",
+                                    "file_url": "http://ggim.un.org/knowledgebase/Attachment111.aspx?AttachmentType=1",
+                                    "file_name": "Regional Report of the UN-GGIM-Americas 2013-2014.pdf",
+                                    "article": "",
+                                    "dateModified": "Wednesday, March 4, 2015",
+                                    "modifiedBy": "Staff_Consultant",
+                                    "type": "INFO"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "title": "UN-GGIM AMERICAS",
+                "blurb": "The Regional Committee of the UN Global Geospatial Information Management for the Americas (UN GGIM:Americas) was established on August 23, 2013, replacing the Permanent Committee for Geospatial Data Infrastructure of the Americas (PC\u2010IDEA), in accordance with resolution 7, adopted at the 10th  UN Regional Cartographic Conference for the Americas at the UN Headquarters in New York. The name change is in keeping with the regional body\u2019s renewed mandate to have increased close cooperation and coordination with UN-GGIM. The aim of the UN-GGIM:Americas is to determine regional issues relevant to the management of geospatial information, in line with the global challenges especially in the context of sustainable development and humanitarian assistance. The Regional Committee aims particularly to take the necessary action on these regional issues resulting from the use of geospatial information based on the member countries\u2019 knowledge and exchange of experiences and technologies to enable the development of the Geospatial Data Infrastructure for the Americas. For more details, please visit: http://www.cp-idea.org/.",
+                "links": [
+                    {
+                        "url": "http://ggim.un.org/knowledgebase/KnowledgebaseArticle50203.aspx",
+                        "title": null,
+                        "label": "Statutes of UN-GGIM:Americas",
+                        "file": {
+                            "related_links": [],
+                            "title": "UN-GGIM Knowledge Base",
+                            "file_url": "http://ggim.un.org/knowledgebase/Attachment120.aspx?AttachmentType=1",
+                            "file_name": "Statutes of UN-GGIM-Americas.pdf",
+                            "article": "",
+                            "dateModified": "Friday, March 13, 2015",
+                            "modifiedBy": "Staff_Consultant",
+                            "type": "INFO"
+                        }
+                    },
+                    {
+                        "url": "http://ggim.un.org/knowledgebase/KnowledgebaseArticle51637.aspx",
+                        "title": null,
+                        "label": "UN-GGIM: Americas Regional Report 2016-2017",
+                        "file": {
+                            "related_links": [],
+                            "title": "UN-GGIM Knowledge Base",
+                            "file_url": "http://ggim.un.org/knowledgebase/Attachment1469.aspx?AttachmentType=1",
+                            "file_name": "Item 4 - Rolando Ocampo (UN-GGIM Americas).pdf",
+                            "article": "",
+                            "dateModified": "Tuesday, June 12, 2018",
+                            "modifiedBy": "Staff_Consultant",
+                            "type": "INFO"
+                        }
+                    },
+                    {
+                        "url": "http://ggim.un.org/knowledgebase/KnowledgebaseArticle51646.aspx",
+                        "title": null,
+                        "label": "Regional Report UN-GGIM: Americas 2016-2017 - English",
+                        "file": {
+                            "related_links": [],
+                            "title": "UN-GGIM Knowledge Base",
+                            "file_url": "http://ggim.un.org/knowledgebase/Attachment1477.aspx?AttachmentType=1",
+                            "file_name": "UN-GGIM_Americas_Regional_Report_2017.pdf",
+                            "article": "",
+                            "dateModified": "Thursday, June 14, 2018",
+                            "modifiedBy": "Staff_Consultant",
+                            "type": "INFO"
+                        }
+                    },
+                    {
+                        "url": "http://ggim.un.org/knowledgebase/KnowledgebaseArticle51647.aspx",
+                        "title": null,
+                        "label": "Regional Report UN-GGIM: Americas 2016-2017 - Spanish",
+                        "file": {
+                            "related_links": [],
+                            "title": "UN-GGIM Knowledge Base",
+                            "file_url": "http://ggim.un.org/knowledgebase/Attachment1478.aspx?AttachmentType=1",
+                            "file_name": "UN-GGIM_Americas_Reporte_Regional_2017_spanish.pdf",
+                            "article": "",
+                            "dateModified": "Thursday, June 14, 2018",
+                            "modifiedBy": "Staff_Consultant",
+                            "type": "INFO"
+                        }
+                    },
+                    {
+                        "url": "http://ggim.un.org/knowledgebase/KnowledgebaseArticle51887.aspx",
+                        "title": null,
+                        "label": "UNGGIM Americas Regional Report 2014-2015",
+                        "file": {
+                            "related_links": [],
+                            "title": "UN-GGIM Knowledge Base",
+                            "file_url": "http://ggim.un.org/knowledgebase/Attachment1715.aspx?AttachmentType=1",
+                            "file_name": "Regional Report UN-GGIM_Am\u00e9ricas.pdf",
+                            "article": "",
+                            "dateModified": "Thursday, June 21, 2018",
+                            "modifiedBy": "Staff_Consultant",
+                            "type": "INFO"
+                        }
+                    }
+                ]
+            },
+            {
+                "parent": "14",
+                "url": "http://ggim.un.org/knowledgebase/KnowledgebaseCategory46.aspx",
+                "hasChildren": "0",
+                "Multipage": "0",
+                "children": [
+                    {
+                        "parent": "46",
+                        "url": "http://ggim.un.org/knowledgebase/KnowledgebaseCategory47.aspx",
+                        "hasChildren": "0",
+                        "Multipage": "0",
+                        "children": [],
+                        "title": "Relevant Documents",
+                        "blurb": null,
+                        "links": [
+                            {
+                                "url": "http://ggim.un.org/knowledgebase/KnowledgebaseArticle50179.aspx",
+                                "title": null,
+                                "label": "The UN-GGIM:Europe WG 1 Report",
+                                "file": {
+                                    "related_links": [],
+                                    "title": "UN-GGIM Knowledge Base",
+                                    "file_url": "http://ggim.un.org/knowledgebase/Attachment101.aspx?AttachmentType=1",
+                                    "file_name": "UN-GGIM-Europe-Working Group 1 Report.pdf",
+                                    "article": "",
+                                    "dateModified": "Tuesday, February 24, 2015",
+                                    "modifiedBy": "Staff_Consultant",
+                                    "type": "INFO"
+                                }
+                            },
+                            {
+                                "url": "http://ggim.un.org/knowledgebase/KnowledgebaseArticle50180.aspx",
+                                "title": null,
+                                "label": "The UN-GGIM:Europe WG 2 Report",
+                                "file": {
+                                    "related_links": [],
+                                    "title": "UN-GGIM Knowledge Base",
+                                    "file_url": "http://ggim.un.org/knowledgebase/Attachment102.aspx?AttachmentType=1",
+                                    "file_name": "UN-GGIM-Europe Working Group 2 Report.pdf",
+                                    "article": "",
+                                    "dateModified": "Tuesday, February 24, 2015",
+                                    "modifiedBy": "Staff_Consultant",
+                                    "type": "INFO"
+                                }
+                            },
+                            {
+                                "url": "http://ggim.un.org/knowledgebase/KnowledgebaseArticle50182.aspx",
+                                "title": null,
+                                "label": "Report on the Establishment of UN\u2010GGIM:Europe Item 14",
+                                "file": {
+                                    "related_links": [],
+                                    "title": "UN-GGIM Knowledge Base",
+                                    "file_url": "http://ggim.un.org/knowledgebase/Attachment104.aspx?AttachmentType=1",
+                                    "file_name": "Report on the establishment of the UN-GGIM-Europe Item 14.pdf",
+                                    "article": "",
+                                    "dateModified": "Tuesday, February 24, 2015",
+                                    "modifiedBy": "Staff_Consultant",
+                                    "type": "INFO"
+                                }
+                            },
+                            {
+                                "url": "http://ggim.un.org/knowledgebase/KnowledgebaseArticle50183.aspx",
+                                "title": null,
+                                "label": "E-C20-2014-14 Report of Regional Entities",
+                                "file": {
+                                    "related_links": [],
+                                    "title": "UN-GGIM Knowledge Base",
+                                    "file_url": "http://ggim.un.org/knowledgebase/Attachment105.aspx?AttachmentType=1",
+                                    "file_name": "E-C20-2014-14 Report of Regional Entities.pdf",
+                                    "article": "",
+                                    "dateModified": "Tuesday, February 24, 2015",
+                                    "modifiedBy": "Staff_Consultant",
+                                    "type": "INFO"
+                                }
+                            },
+                            {
+                                "url": "http://ggim.un.org/knowledgebase/KnowledgebaseArticle52306.aspx",
+                                "title": null,
+                                "label": "UN GGIM Europe Region Report",
+                                "file": {
+                                    "related_links": [],
+                                    "title": "UN-GGIM Knowledge Base",
+                                    "file_url": "http://ggim.un.org/knowledgebase/Attachment2155.aspx?AttachmentType=1",
+                                    "file_name": "Eurostat and EuroGeographics for UNGGIM NY.pdf",
+                                    "article": "",
+                                    "dateModified": "Wednesday, June 27, 2018",
+                                    "modifiedBy": "Staff_Consultant",
+                                    "type": "INFO"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "title": "UN-GGIM EUROPE",
+                "blurb": "The United Nations Committee of Experts on Global Geospatial Information Management for Europe (UN-GGIM: Europe) was formally established on 1st October 2014 at a meeting in Chisinau Moldova, in pursuance of the UN-GGIM decision 4/111, adopted at its 4th Session in New York, 6-8 August 2014, which \u201cendorsed the establishment of the Regional Committee of United Nations Global Geospatial Information Management for Europe\u201d. This new body was created after two years of preparatory work beginning in November 2012 with an inaugural phase.  The process transitioned at the 3rd session of the Committee of Experts on GGIM in 2013, with increased and active involvement of European Member States, the creation of its governance structure and the preparation of a draft work plan.  The process culminated on 1st October in Chisinau with the meeting of 110 delegates, including representatives from 6 National Statistical Institutes and 43 NMCAs and the election of the Executive Body. UN-GGIM: Europe is now chaired by Bengt Kjellson of Sweden, supported by two vice chairs, Dorine Burmanje from the Netherlands, and Antonio Arozarena from Spain, in addition to a 10 member executive committee. The Netherlands has responsibility for providing secretariat services to UN-GGIM: Europe and EuroGeographics will carry out the work under a service level agreement. Their website is http://un-ggim-europe.org/.",
+                "links": [
+                    {
+                        "url": "http://ggim.un.org/knowledgebase/KnowledgebaseArticle50178.aspx",
+                        "title": null,
+                        "label": "Rules of Procedure of the UN-GGIM:Europe",
+                        "file": {
+                            "related_links": [],
+                            "title": "UN-GGIM Knowledge Base",
+                            "file_url": "http://ggim.un.org/knowledgebase/Attachment100.aspx?AttachmentType=1",
+                            "file_name": "Rules of Procedure of the United Nations Committee of Experts on Global Geospatial Information Management for Europe .pdf.pdf",
+                            "article": "",
+                            "dateModified": "Tuesday, February 24, 2015",
+                            "modifiedBy": "Staff_Consultant",
+                            "type": "INFO"
+                        }
+                    },
+                    {
+                        "url": "http://ggim.un.org/knowledgebase/KnowledgebaseArticle50181.aspx",
+                        "title": null,
+                        "label": "Overview of the UN-GGIM:Europe",
+                        "file": {
+                            "related_links": [],
+                            "title": "UN-GGIM Knowledge Base",
+                            "file_url": "http://ggim.un.org/knowledgebase/Attachment103.aspx?AttachmentType=1",
+                            "file_name": "Overview of the UN-GGIM-Europe.pdf",
+                            "article": "",
+                            "dateModified": "Tuesday, February 24, 2015",
+                            "modifiedBy": "Staff_Consultant",
+                            "type": "INFO"
+                        }
+                    },
+                    {
+                        "url": "http://ggim.un.org/knowledgebase/KnowledgebaseArticle50193.aspx",
+                        "title": null,
+                        "label": "Statutes of the UN-GGIM: Europe",
+                        "file": {
+                            "related_links": [],
+                            "title": "UN-GGIM Knowledge Base",
+                            "file_url": "http://ggim.un.org/knowledgebase/Attachment116.aspx?AttachmentType=1",
+                            "file_name": "Statutes of the United Nations Committee of Experts on Global Geospatial Information Management for Europe.pdf",
+                            "article": "",
+                            "dateModified": "Wednesday, March 4, 2015",
+                            "modifiedBy": "Staff_Consultant",
+                            "type": "INFO"
+                        }
+                    },
+                    {
+                        "url": "http://ggim.un.org/knowledgebase/KnowledgebaseArticle51650.aspx",
+                        "title": null,
+                        "label": "Report on Global Geospatial Information Management in Europe",
+                        "file": {
+                            "related_links": [],
+                            "title": "UN-GGIM Knowledge Base",
+                            "file_url": "http://ggim.un.org/knowledgebase/Attachment1481.aspx?AttachmentType=1",
+                            "file_name": "UNGGIM-Europe_ReportGGIM7_v1.pdf",
+                            "article": "",
+                            "dateModified": "Thursday, June 14, 2018",
+                            "modifiedBy": "Staff_Consultant",
+                            "type": "INFO"
+                        }
+                    },
+                    {
+                        "url": "http://ggim.un.org/knowledgebase/KnowledgebaseArticle51890.aspx",
+                        "title": null,
+                        "label": "Contribution of regional committees and thematic groups to       the...",
+                        "file": {
+                            "related_links": [],
+                            "title": "UN-GGIM Knowledge Base",
+                            "file_url": "http://ggim.un.org/knowledgebase/Attachment1718.aspx?AttachmentType=1",
+                            "file_name": "GGIM Europe Introduction.pdf",
+                            "article": "",
+                            "dateModified": "Thursday, June 21, 2018",
+                            "modifiedBy": "Staff_Consultant",
+                            "type": "INFO"
+                        }
+                    }
+                ]
+            },
+            {
+                "parent": "14",
+                "url": "http://ggim.un.org/knowledgebase/KnowledgebaseCategory17.aspx",
+                "hasChildren": "0",
+                "Multipage": "0",
+                "children": [
+                    {
+                        "parent": "17",
+                        "url": "http://ggim.un.org/knowledgebase/KnowledgebaseCategory48.aspx",
+                        "hasChildren": "0",
+                        "Multipage": "0",
+                        "children": [],
+                        "title": "Relevant Documents",
+                        "blurb": null,
+                        "links": [
+                            {
+                                "url": "http://ggim.un.org/knowledgebase/KnowledgebaseArticle50360.aspx",
+                                "title": null,
+                                "label": "Why it is important for Arab States - UN-GGIM Brief Note",
+                                "file": {
+                                    "related_links": [],
+                                    "title": "UN-GGIM Knowledge Base",
+                                    "file_url": "http://ggim.un.org/knowledgebase/Attachment182.aspx?AttachmentType=1",
+                                    "file_name": "Why it is important for Arab States - UN-GGIM Brief Note.pdf",
+                                    "article": "",
+                                    "dateModified": "Thursday, May 14, 2015",
+                                    "modifiedBy": "Staff_Consultant",
+                                    "type": "INFO"
+                                }
+                            },
+                            {
+                                "url": "http://ggim.un.org/knowledgebase/KnowledgebaseArticle50459.aspx",
+                                "title": null,
+                                "label": "UN-GGIM: Arab States Convenes Inaugural Meeting in Riyadh",
+                                "file": {
+                                    "related_links": [],
+                                    "title": "UN-GGIM Knowledge Base",
+                                    "file_url": "http://ggim.un.org/knowledgebase/Attachment280.aspx?AttachmentType=1",
+                                    "file_name": "UN-GGIM-Arab States Article-GIM International.pdf",
+                                    "article": "",
+                                    "dateModified": "Wednesday, January 6, 2016",
+                                    "modifiedBy": "Staff_Consultant",
+                                    "type": "INFO"
+                                }
+                            },
+                            {
+                                "url": "http://ggim.un.org/knowledgebase/KnowledgebaseArticle52022.aspx",
+                                "title": null,
+                                "label": "Report on the establishment of UN\u2010GGIM: Arab States",
+                                "file": {
+                                    "related_links": [],
+                                    "title": "UN-GGIM Knowledge Base",
+                                    "file_url": "http://ggim.un.org/knowledgebase/Attachment1852.aspx?AttachmentType=1",
+                                    "file_name": "14_ARAB report.pdf",
+                                    "article": "",
+                                    "dateModified": "Monday, June 25, 2018",
+                                    "modifiedBy": "Staff_Consultant",
+                                    "type": "INFO"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "title": "UN-GGIM ARAB STATES",
+                "blurb": "The Regional Committee of United Nations Global Geospatial Information Management for the Arab States (UN-GGIM: Arab States) was established at the 4th Session of the UN-GGIM on August 2014, in accordance with Decision 4/111 which \u201cendorsed the establishment of the Regional Committee of United Nations Global Geospatial Information Management for the Arab States\u201d. The building process of UN-GGIM for the Arab States started with the Seminar on Regional Cooperation convened in Doha, Qatar, on 7 February, in the wake of the Second High Level Forum on GGIM.  It continued with an informal regional side-meeting during the 3rd Session of UN-GGIM, held in Cambridge in July 2013, and the second preparatory meeting, held in Amman in February 2014, and culminated with the formal creation of the regional UN-GGIM-Arab States at the 4th Session of UN-GGIM in August 2014. The transitional committee is preparing the first official meeting to be held in Riyadh, Saudi Arabia, 24-25 February 2015, to elect a Bureau for the Committee and Chairs of Working Groups in order to lead its work for the next few years. For more detail, please visit: http://www.un-ggim-as.org/ ",
+                "links": [
+                    {
+                        "url": "http://ggim.un.org/knowledgebase/KnowledgebaseArticle51476.aspx",
+                        "title": null,
+                        "label": "Second Meeting of UN-GGIM:Arab States in Algeria in June, 2015",
+                        "file": {
+                            "related_links": [],
+                            "title": "UN-GGIM Knowledge Base",
+                            "file_url": "http://ggim.un.org/knowledgebase/Attachment1316.aspx?AttachmentType=1",
+                            "file_name": "2nd Meeting Report UN-GGIM Arab States_Algeria.pdf",
+                            "article": "",
+                            "dateModified": "Wednesday, January 6, 2016",
+                            "modifiedBy": "Administrator",
+                            "type": "INFO"
+                        }
+                    },
+                    {
+                        "url": "http://ggim.un.org/knowledgebase/KnowledgebaseArticle50264.aspx",
+                        "title": null,
+                        "label": "First Meeting of UN-GGIM:Arab States in Saudi Arabia in Feb,       2015...",
+                        "file": {
+                            "related_links": [],
+                            "title": "UN-GGIM Knowledge Base",
+                            "file_url": "http://ggim.un.org/knowledgebase/Attachment126.aspx?AttachmentType=1",
+                            "file_name": "First Meeting of the UN-GGIM Arab States  Feb 2015.pdf",
+                            "article": "",
+                            "dateModified": "Wednesday, January 6, 2016",
+                            "modifiedBy": "Administrator",
+                            "type": "INFO"
+                        }
+                    },
+                    {
+                        "url": "http://ggim.un.org/knowledgebase/KnowledgebaseArticle50327.aspx",
+                        "title": null,
+                        "label": "Preparatory Meeting of UN-GGIM:Arab States_Amman Report",
+                        "file": {
+                            "related_links": [],
+                            "title": "UN-GGIM Knowledge Base",
+                            "file_url": "http://ggim.un.org/knowledgebase/Attachment1313.aspx?AttachmentType=1",
+                            "file_name": "Preparatory Meeting of UN-GGIM  Arab States_Amman Report.pdf",
+                            "article": "",
+                            "dateModified": "Wednesday, January 6, 2016",
+                            "modifiedBy": "Administrator",
+                            "type": "INFO"
+                        }
+                    },
+                    {
+                        "url": "http://ggim.un.org/knowledgebase/KnowledgebaseArticle51638.aspx",
+                        "title": null,
+                        "label": "UN-GGIM: Arab States Report of 7th Session",
+                        "file": {
+                            "related_links": [],
+                            "title": "UN-GGIM Knowledge Base",
+                            "file_url": "http://ggim.un.org/knowledgebase/Attachment1470.aspx?AttachmentType=1",
+                            "file_name": "Item 4 - Bandar Saleh H. Almuslamni (UN-GGIM Arab States).pdf",
+                            "article": "",
+                            "dateModified": "Tuesday, June 12, 2018",
+                            "modifiedBy": "Staff_Consultant",
+                            "type": "INFO"
+                        }
+                    },
+                    {
+                        "url": "http://ggim.un.org/knowledgebase/KnowledgebaseArticle51648.aspx",
+                        "title": null,
+                        "label": "REPORT To 7th United Nations - Global Geospatial Information...",
+                        "file": {
+                            "related_links": [],
+                            "title": "UN-GGIM Knowledge Base",
+                            "file_url": "http://ggim.un.org/knowledgebase/Attachment1479.aspx?AttachmentType=1",
+                            "file_name": "UN-GGIM-Arab-States-7th Report (with Annex.).pdf",
+                            "article": "",
+                            "dateModified": "Thursday, June 14, 2018",
+                            "modifiedBy": "Staff_Consultant",
+                            "type": "INFO"
+                        }
+                    },
+                    {
+                        "url": "http://ggim.un.org/knowledgebase/KnowledgebaseArticle51888.aspx",
+                        "title": null,
+                        "label": "UN-GGIM: Arab States Activities 5th UN-GGIM Session",
+                        "file": {
+                            "related_links": [],
+                            "title": "UN-GGIM Knowledge Base",
+                            "file_url": "http://ggim.un.org/knowledgebase/Attachment1716.aspx?AttachmentType=1",
+                            "file_name": "GGIM Arab States Introduction.pdf",
+                            "article": "",
+                            "dateModified": "Thursday, June 21, 2018",
+                            "modifiedBy": "Staff_Consultant",
+                            "type": "INFO"
+                        }
+                    }
+                ]
+            },
+            {
+                "parent": "14",
+                "url": "http://ggim.un.org/knowledgebase/KnowledgebaseCategory19.aspx",
+                "hasChildren": "0",
+                "Multipage": "0",
+                "children": [
+                    {
+                        "parent": "19",
+                        "url": "http://ggim.un.org/knowledgebase/KnowledgebaseCategory49.aspx",
+                        "hasChildren": "0",
+                        "Multipage": "0",
+                        "children": [],
+                        "title": "Relevant Documents",
+                        "blurb": null,
+                        "links": [
+                            {
+                                "url": "http://ggim.un.org/knowledgebase/KnowledgebaseArticle50190.aspx",
+                                "title": null,
+                                "label": "Regional Report of the UN-GGIM:Africa June 2014",
+                                "file": {
+                                    "related_links": [],
+                                    "title": "UN-GGIM Knowledge Base",
+                                    "file_url": "http://ggim.un.org/knowledgebase/Attachment110.aspx?AttachmentType=1",
+                                    "file_name": "Regional Report of the UN-GGIM- Africa June 2014.pdf",
+                                    "article": "",
+                                    "dateModified": "Wednesday, March 4, 2015",
+                                    "modifiedBy": "Staff_Consultant",
+                                    "type": "INFO"
+                                }
+                            },
+                            {
+                                "url": "http://ggim.un.org/knowledgebase/KnowledgebaseArticle50197.aspx",
+                                "title": null,
+                                "label": "African Geodetic Reference Frame Dec 2014",
+                                "file": {
+                                    "related_links": [],
+                                    "title": "UN-GGIM Knowledge Base",
+                                    "file_url": "http://ggim.un.org/knowledgebase/Attachment117.aspx?AttachmentType=1",
+                                    "file_name": "African Geodetic Reference Frame Dec 2014.pdf",
+                                    "article": "",
+                                    "dateModified": "Thursday, March 12, 2015",
+                                    "modifiedBy": "Staff_Consultant",
+                                    "type": "INFO"
+                                }
+                            },
+                            {
+                                "url": "http://ggim.un.org/knowledgebase/KnowledgebaseArticle52305.aspx",
+                                "title": null,
+                                "label": "REPORT ON GGIM ACTIVITIES IN AFRICA",
+                                "file": {
+                                    "related_links": [],
+                                    "title": "UN-GGIM Knowledge Base",
+                                    "file_url": "http://ggim.un.org/knowledgebase/Attachment2154.aspx?AttachmentType=1",
+                                    "file_name": "Africa regional report Aug 2012.pdf",
+                                    "article": "",
+                                    "dateModified": "Wednesday, June 27, 2018",
+                                    "modifiedBy": "Staff_Consultant",
+                                    "type": "INFO"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "title": "UN-GGIM AFRICA",
+                "blurb": "The United Nations Initiative on Global Geospatial Information Management in Africa (UN-GGIM: Africa) started pursuant to the resolution on UN-GGIM, adopted at the third session of the Committee on Development Information, Science and Technology (CODIST-III) in March 2013. A preparatory meeting held in Tunis, 8-12 December 2014, agreed on the work programme and elected a transitional Bureau, composed of 4 co-Chairs representing the regions of Africa and chairs of 4 Working Groups, to lead the work of the Committee for the interim period until the next session of the Committee and its formalization at the upcoming 5th Session of UN-GGIM in August 2015. The secretariat services are provided by UNECA. The aim of the UN-GGIM-Africa is to identify relevant regional geospatial information management issues and initiate actions for the furtherance of discussions of the regional entity and thus contribute to the direction of UN-GGIM to permit the economic, social and environmental benefits of geospatial information to be maximized in the African region.",
+                "links": [
+                    {
+                        "url": "http://ggim.un.org/knowledgebase/KnowledgebaseArticle51477.aspx",
+                        "title": null,
+                        "label": "First Meeting of UN-GGIM:Africa in Kenya in Nov 2015",
+                        "file": {
+                            "related_links": [],
+                            "title": "UN-GGIM Knowledge Base",
+                            "file_url": "http://ggim.un.org/knowledgebase/Attachment1317.aspx?AttachmentType=1",
+                            "file_name": "2015.UN.GGIM.Africa - First Meeting Report.pdf",
+                            "article": "",
+                            "dateModified": "Wednesday, January 6, 2016",
+                            "modifiedBy": "Administrator",
+                            "type": "INFO"
+                        }
+                    },
+                    {
+                        "url": "http://ggim.un.org/knowledgebase/KnowledgebaseArticle50199.aspx",
+                        "title": null,
+                        "label": "Preparatory Meeting of UN-GGIM:Africa in Tunisia in Dec 2014",
+                        "file": {
+                            "related_links": [],
+                            "title": "UN-GGIM Knowledge Base",
+                            "file_url": "http://ggim.un.org/knowledgebase/Attachment118.aspx?AttachmentType=1",
+                            "file_name": "Un-GGIM-Africa  Inception Meeting Dec 2014.pdf",
+                            "article": "",
+                            "dateModified": "Wednesday, January 6, 2016",
+                            "modifiedBy": "Staff_Consultant",
+                            "type": "INFO"
+                        }
+                    },
+                    {
+                        "url": "http://ggim.un.org/knowledgebase/KnowledgebaseArticle51636.aspx",
+                        "title": null,
+                        "label": "UN-GGIM: Africa Report to the 7th Session of the CE of UN-GGIM",
+                        "file": {
+                            "related_links": [],
+                            "title": "UN-GGIM Knowledge Base",
+                            "file_url": "http://ggim.un.org/knowledgebase/Attachment1468.aspx?AttachmentType=1",
+                            "file_name": "Item 4 - Sultan Mohammed Alya (UN-GGIM Africa).pdf",
+                            "article": "",
+                            "dateModified": "Tuesday, June 12, 2018",
+                            "modifiedBy": "Staff_Consultant",
+                            "type": "INFO"
+                        }
+                    },
+                    {
+                        "url": "http://ggim.un.org/knowledgebase/KnowledgebaseArticle51645.aspx",
+                        "title": null,
+                        "label": "Report on UN-GGIM Regional Activities in Africa",
+                        "file": {
+                            "related_links": [],
+                            "title": "UN-GGIM Knowledge Base",
+                            "file_url": "http://ggim.un.org/knowledgebase/Attachment1476.aspx?AttachmentType=1",
+                            "file_name": "2017.UN-GGIM-Africa_Regional_Report-June_2017_Final_30_June.pdf",
+                            "article": "",
+                            "dateModified": "Thursday, June 14, 2018",
+                            "modifiedBy": "Staff_Consultant",
+                            "type": "INFO"
+                        }
+                    }
+                ]
+            }
+        ],
+        "title": "Regional",
+        "blurb": "Each UN-GGIM regional entity plays a vital role liaising with the UN-GGIM Secretariat on topics of interest and major developments in intervening periods between meetings of the Committee of Experts, facilitating regional development and discussion, and formally feeding into the Committee of Experts. UN-mandated regional bodies are established in the Asia-Pacific, the Americas, Europe, the Arab States and Africa (UN-GGIM activities are presently coordinated in Africa by the United Nations Economic Commission for Africa (UNECA)).",
+        "links": [
+            {
+                "url": "http://ggim.un.org/knowledgebase/KnowledgebaseArticle50316.aspx",
+                "title": "",
+                "label": "Overview of UN-GGIM Regional Entities",
+                "file": {
+                    "related_links": [],
+                    "title": "UN-GGIM Knowledge Base",
+                    "file_url": "http://ggim.un.org/knowledgebase/Attachment139.aspx?AttachmentType=1",
+                    "file_name": "UN-GGIM Regional Entities.pdf",
+                    "article": "",
+                    "dateModified": "Tuesday, April 28, 2015",
+                    "modifiedBy": "Staff_Consultant",
+                    "type": "INFO"
+                }
+            },
+            {
+                "url": "http://ggim.un.org/knowledgebase/KnowledgebaseArticle50317.aspx",
+                "title": null,
+                "label": "Structure Diagram of UN-GGIM Regional Entities",
+                "file": {
+                    "related_links": [],
+                    "title": "UN-GGIM Knowledge Base",
+                    "file_url": "http://ggim.un.org/knowledgebase/Attachment138.aspx?AttachmentType=1",
+                    "file_name": "Structure Diagram  of UN-GGIM Regional Entities.pdf",
+                    "article": "",
+                    "dateModified": "Tuesday, April 28, 2015",
+                    "modifiedBy": "Staff_Consultant",
+                    "type": "INFO"
+                }
+            },
+            {
+                "url": "http://ggim.un.org/knowledgebase/KnowledgebaseArticle52014.aspx",
+                "title": null,
+                "label": "Reports by regional entities and thematic groups",
+                "file": {
+                    "related_links": [],
+                    "title": "UN-GGIM Knowledge Base",
+                    "file_url": "http://ggim.un.org/knowledgebase/Attachment1845.aspx?AttachmentType=1",
+                    "file_name": "E-C20-2014-14 Report of Regional Entities.pdf",
+                    "article": "",
+                    "dateModified": "Monday, June 25, 2018",
+                    "modifiedBy": "Staff_Consultant",
+                    "type": "INFO"
+                }
+            }
+        ]
+    }
+]
